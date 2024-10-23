@@ -1,4 +1,5 @@
 # Desafio de código
+## Aplicando Técnicas de Listas em Python
 
 ## 1. Análise de Vendas com Listas
 

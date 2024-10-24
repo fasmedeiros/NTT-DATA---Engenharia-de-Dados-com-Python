@@ -1,4 +1,5 @@
-# Desvendando o Power BI com Python
+# Desafio de código
+## Desvendando o Power BI com Python
 
 ## 1 - Fundamentos de Business Intelligence (BI)
 Business Intelligence (BI) envolve o uso de ferramentas e técnicas para coletar, processar e analisar dados, com o objetivo de apoiar a tomada de decisões estratégicas em uma organização. Os conceitos fundamentais de BI incluem:

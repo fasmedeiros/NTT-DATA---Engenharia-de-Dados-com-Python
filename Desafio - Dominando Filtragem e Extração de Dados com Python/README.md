@@ -1,5 +1,5 @@
 # Desafio de Código
-## Aplicando Técnicas de Listas em Python
+## Dominando Filtragem e Extração de Dados com Python
 
 ## 1. Filtragem de Visuais
 
